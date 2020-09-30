@@ -17,9 +17,11 @@ De nature autodidacte, j'utilise une bonne partie de mon temps libre afin de per
 - Créer une architecture cloud évolutive en utilisant **Microsoft Azure**
 - Gestion de projet et utilisation de CI/CD **Azure DevOps**
 
-## 💻 Je travaille sur
-- Building projects and my portfolio website. 
-Although, I think I'll wait to learn React before I build the website.
+## 💻 Je travaille actuellement sur
+- Un énorme projet pour un grand groupe, technologies utilisées **Laravel, Livewire, TailwindCSS, Amazon AWS** 
+- Un site vitrine pour un ami photographe amateur sous **Wordpress**
+- Dès que possible, peut-être refaire mon site personnel pour qu'il soit moins "simpliste"
+- J'étudie également la faisabilité d'un projet sous licence, top secret pour le moment ahah
 
 ## ☕ Contactez moi
 - Twitter - [@_jeremyrobert](https://twitter.com/_jeremyrobert)
