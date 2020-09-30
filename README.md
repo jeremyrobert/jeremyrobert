@@ -9,7 +9,7 @@ De nature autodidacte, j'utilise une bonne partie de mon temps libre afin de per
 ## ⚡ Technologies
 - Front-end **VueJS, React, Blade, AlpineJS**
 - Backend **Laravel, Node, Express**
-- Base de données **Base de données relationnelle MySQL** ainsi que NoSQL comme **Firebase**
+- **Base de données relationnelle MySQL** ainsi que NoSQL comme **Firebase**
 - Développement d'applications de bureau en utilisant **Electron**
 - Développement d'applications mobiles en utilisant **React Native**
 
