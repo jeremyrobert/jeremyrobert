@@ -1,27 +1,29 @@
 # Jeremy Robert 👋
-Développeur Web Full-Stack - Laravel / Vuejs | Freelance
+Développeur - Laravel / React / Vuejs | Freelance
 
 ## 📘 À propos de moi
-Développeur web freelance, passionné et continuellement en quête de nouvelles connaissances, j'apprécie notamment Laravel couplé à un framework comme Vuejs ou React. J'ai également des compétences avec le CMS Wordpress.
+Développeur web freelance, passionné et continuellement en quête de nouvelles connaissances, mon expérience au sein d'un grand groupe m'a permis d'acquérir les compétences techniques et organisationnelles indispensables au suivi, à la réalisation et la livraison d'un projet informatique.
 
-De nature autodidacte, j'utilise une bonne partie de mon temps libre afin de perfectionner mes compétences sur des plateformes comme Udemy, Laracasts ou OpenClassrooms. Compétences qui me servent ensuite à répondre au mieux aux besoins de mes clients.
+De nature autodidacte, j'utilise une bonne partie de mon temps libre afin de perfectionner mes compétences et ainsi répondre au mieux aux besoins de mes clients.
 
 ## ⚡ Technologies
-- Front-end **VueJS, React, Blade, AlpineJS**
-- Backend **Laravel, Node, Express**
+- Frontend **VueJS, React, Blade, AlpineJS, NextJS**
+- Backend **Laravel, AdonisJS**
+- CSS avec **TailwindCSS** que j'affectionne beaucoup !
 - **Base de données relationnelle MySQL** ainsi que NoSQL comme **Firebase**
-- Développement d'applications de bureau en utilisant **Electron**
-- Développement d'applications mobiles en utilisant **React Native**
+- Environnement sous Windows et Linux **(WSL2)**
 
 ## ✔️ J'apprends actuellement
-- Créer une architecture cloud évolutive en utilisant **Microsoft Azure**
-- Gestion de projet et utilisation de CI/CD **Azure DevOps**
+- Je renforce mes connaissances en JavaScript avec l'utilisation de **TypeScript**
+- Gestion de projet et utilisation de CI/CD
+
+## 🔍 J'aimerais apprendre ensuite
+- **Svelte** me fais de l'oeil...
 
 ## 💻 Je travaille actuellement sur
-- Un énorme projet pour un grand groupe, technologies utilisées **Laravel, Livewire, TailwindCSS, Amazon AWS** 
-- Un site vitrine pour un ami photographe amateur sous **Wordpress**
-- Dès que possible, peut-être refaire mon site personnel pour qu'il soit moins "simpliste"
-- J'étudie également la faisabilité d'un projet sous licence, top secret pour le moment ahah
+- Un site vitrine pour l'entreprise d'un ami, j'en profite pour utiliser **Astro**
+- Un jour, peut-être refaire mon site personnel pour qu'il soit moins "simpliste"
+- J'étudie également la faisabilité d'un projet sous licence
 
 ## ☕ Contactez moi
 - Twitter - [@_jeremyrobert](https://twitter.com/_jeremyrobert)
