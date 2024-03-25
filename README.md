@@ -2,8 +2,10 @@
 Développeur - PHP / Laravel et Vuejs | Freelance
 
 ## 📘 À propos de moi
-Développeur web freelance expérimenté, ma passion pour la technologie s'accompagne d'une solide expertise dans la conduite et la réalisation de projets informatiques complexes. 
+Développeur web freelance expérimenté, ma passion pour la technologie s'accompagne d'une solide expertise dans la conduite et la réalisation de projets informatiques complexes.
+
 Mon parcours dans différents grands groupes m'a doté d'une compréhension nuancée des défis techniques et organisationnels, me permettant d'offrir des solutions solides et efficaces.
+
 Ma démarche autodidacte et mon engagement continu envers le perfectionnement professionnel me permettent de fournir des services de haute qualité, adaptés et évolutifs.
 
 ## ⚡ Technologies
